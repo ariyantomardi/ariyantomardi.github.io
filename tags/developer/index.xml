@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Developer on Ariyanto Mardi</title>
-    <link>https://ariyantomardi.github.io/tags/developer/</link>
+    <link>http://blog.amw.web.id/tags/developer/</link>
     <description>Recent content in Developer on Ariyanto Mardi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 16:34:53 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 23:34:53 +0700</lastBuildDate>
     
-	<atom:link href="https://ariyantomardi.github.io/tags/developer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.amw.web.id/tags/developer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Developer Kekinian</title>
-      <link>https://ariyantomardi.github.io/post/hipster-developer/</link>
-      <pubDate>Thu, 07 Sep 2017 16:34:53 +0700</pubDate>
+      <link>http://blog.amw.web.id/post/hipster-developer/</link>
+      <pubDate>Sat, 14 Oct 2017 23:34:53 +0700</pubDate>
       
-      <guid>https://ariyantomardi.github.io/post/hipster-developer/</guid>
+      <guid>http://blog.amw.web.id/post/hipster-developer/</guid>
       <description>http://blogs.bytecode.com.au/
  Developer kekinian atau hipster developer adalah salah satu tipe developer yang akhir akhir ini sedang banyak bermunculan. Secara singkat developer kekinian dapat di artikan sebagai seorang developer yang selalu up-to-date dengan framework, tidak hanya framework yang sedang tren tapi mereka terkadang juga sudah memakai atau mempelajari framework-framework yang namanya masih asing di telinga developer lainya.
 Framework pada dasaranya adalah kerangka kerja yang berisi kumpulan script class dan function yang dapat membantu pekerjaan para developer.</description>
