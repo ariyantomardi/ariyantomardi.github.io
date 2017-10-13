@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blog.amw.web.id/post/hipster-developer/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/post/fullstack-developer-mitos/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/post/javascript-bahasa-curang/</loc>
+    <lastmod>2017-05-15T16:34:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/categories/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/categories/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/tags/developer/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/tags/javascript/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/post/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/tags/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.amw.web.id/tags/tech/</loc>
+    <lastmod>2017-09-07T16:34:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
