@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ariyanto Mardi</title>
+    <title>Categories on Ariyanto Mardi</title>
     <link>http://blog.amw.web.id/categories/</link>
-    <description>Recent content on Ariyanto Mardi</description>
+    <description>Recent content in Categories on Ariyanto Mardi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Oct 2017 20:34:53 +0700</lastBuildDate>
@@ -12,34 +12,12 @@
     
     
     <item>
-      <title>Developer Kekinian</title>
-      <link>http://blog.amw.web.id/post/developer-kekinian/</link>
+      <title></title>
+      <link>http://blog.amw.web.id/categories/</link>
       <pubDate>Sun, 15 Oct 2017 20:34:53 +0700</pubDate>
       
-      <guid>http://blog.amw.web.id/post/developer-kekinian/</guid>
-      <description>http://blogs.bytecode.com.au/
- Developer kekinian atau hipster developer adalah salah satu tipe developer yang akhir akhir ini sedang banyak bermunculan. Secara singkat developer kekinian dapat di artikan sebagai seorang developer yang selalu up-to-date dengan framework, tidak hanya framework yang sedang tren tapi mereka terkadang juga sudah memakai atau mempelajari framework-framework yang namanya masih asing di telinga developer lainya.
-Framework pada dasaranya adalah kerangka kerja yang berisi kumpulan script class dan function yang dapat membantu pekerjaan para developer.</description>
-    </item>
-    
-    <item>
-      <title>Full-Stack Developer: Mitos</title>
-      <link>http://blog.amw.web.id/post/fullstack-developer-mitos/</link>
-      <pubDate>Thu, 07 Sep 2017 16:34:53 +0700</pubDate>
-      
-      <guid>http://blog.amw.web.id/post/fullstack-developer-mitos/</guid>
-      <description>Akhir-akhir ini sering kita melihat Account Linkedin yang menuliskan &amp;ldquo;Full-Stack Developer&amp;rdquo; pada bio-nya, yang ada di bayangan gue ketika melihat ada seorang yang mengaku dirinya Full-Stack Developer adalah apakah orang itu jenius? Apakah ada orang se-DEWA itu?
-Umumnya di sebuah website/apps itu terbagi dua sisi Front-End dan Back-End, pada dua sisi itu kita akhirnya mengenal istilah Front-End Developer dan Back-End Developer. Front-End Developer adalah developer yang bertanggung jawab pada antar muka suatu website/apps, seorang Front-End Developer umumnya menggunakan bahasa HTML, CSS, JS, PHP.</description>
-    </item>
-    
-    <item>
-      <title>Javascript: Bahasa Curang</title>
-      <link>http://blog.amw.web.id/post/javascript-bahasa-curang/</link>
-      <pubDate>Mon, 15 May 2017 16:34:53 +0700</pubDate>
-      
-      <guid>http://blog.amw.web.id/post/javascript-bahasa-curang/</guid>
-      <description>Bagi sebagian programmer javascript adalah bahasa yang sudah tidak asing lagi khususnya bagi seorang Frontend engineer, javascript sering kali di sebut sebagai nyawa bagi web atau aplikasi karena biasanya javascript di gunakan untuk membuat UI/UX atau interaksi yang mambuat applikasi yang kita gunakan menjadi hidup.
-Javascript Javascript atau JS adalah bahasa yang sering di gunakan seorang FrontEnd Engineer, saya sendiri masih terbiasa menggunakan JS untuk membuat UI/UX dalam sebuah aplikasi/website, JS sendiri menurut saya adalah bahasa pemrograman yg paling gampang di pelajari, saya ingat ada suatu quotes mengatakan:</description>
+      <guid>http://blog.amw.web.id/categories/</guid>
+      <description></description>
     </item>
     
   </channel>
